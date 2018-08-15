@@ -1,0 +1,23 @@
+{
+  "name": "bowline",
+  "version": "1.0.0",
+  "description": "Wrapper for the mqtt library, providing async/await compatible method signatures as well as better message handling capabilities.",
+  "main": "index.js",
+  "repository": "https://github.com/quayOS/bowline",
+  "author": "Jonas Auer <jonas.auer.94@gmail.com>",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "start": "node index.js",
+    "doc": "rm -rf ./doc && jsdoc -c jsdocrc.json -R README.md -d ./doc -r ./lib/*",
+    "test": "standard"
+  },
+  "private": true,
+  "dependencies": {
+    "logbook": "https://github.com/quayOS/logbook.git#v1.0.0",
+    "mqtt": "^2.18.3"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.5.5",
+    "standard": "^11.0.1"
+  }
+}
