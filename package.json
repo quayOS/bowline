@@ -7,7 +7,6 @@
   "author": "Jonas Auer <jonas.auer.94@gmail.com>",
   "license": "AGPL-3.0-only",
   "scripts": {
-    "start": "node index.js",
     "doc": "rm -rf ./doc && jsdoc -c jsdocrc.json -R README.md -d ./doc -r ./lib/*",
     "test": "standard"
   },
