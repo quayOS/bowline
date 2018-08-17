@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "logbook": "https://github.com/quayOS/logbook.git#v2.0.0",
+    "logbook": "https://github.com/quayOS/logbook.git#v2.0.1",
     "mqtt": "^2.18.3"
   },
   "devDependencies": {
