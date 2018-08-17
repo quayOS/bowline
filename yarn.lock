@@ -1001,9 +1001,9 @@ lodash@^4.17.10, lodash@^4.17.4, lodash@^4.3.0:
   version "4.17.10"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
 
-"logbook@https://github.com/quayOS/logbook.git#v2.0.1":
-  version "2.0.1"
-  resolved "https://github.com/quayOS/logbook.git#392edbf2da3eda9bf7668ab287d8faa356869ac6"
+"logbook@https://github.com/quayOS/logbook.git#v2.0.2":
+  version "2.0.2"
+  resolved "https://github.com/quayOS/logbook.git#53669ce5a0e3be2be0146dce46ce4db5e20ffc36"
   dependencies:
     cls-hooked "^4.2.2"
     uuid "^3.3.2"
