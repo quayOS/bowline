@@ -1,6 +1,6 @@
 {
   "name": "bowline",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Wrapper for the mqtt library, providing async/await compatible method signatures as well as better message handling capabilities.",
   "main": "index.js",
   "repository": "https://github.com/quayOS/bowline",
